@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root port="8554" >
+	<camera>
+		<name>左上</name>
+		<url>stream/left_up</url>
+	</camera>
+	<camera>
+		<name>左下</name>
+		<url>stream/left_down</url>
+	</camera>		
+</root>
