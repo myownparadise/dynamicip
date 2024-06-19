@@ -8,8 +8,8 @@
 	</camera>
 	<camera>
 		<nickname>客厅萤石云</nickname>
-		<ip6></ip6>
-		<online>0</online>
+		<ip6>::</ip6>
+		<online>1</online>
 		<manufactures>HK</manufactures>
 	</camera>
 </root>
