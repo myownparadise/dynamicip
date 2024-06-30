@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<camera>
-		<nickname>客厅海康</nickname>
-		<ip6>2409:8a62:f17:51f0:b6a3:82ff:fe70:c6de</ip6>
+		<nickname>厂房左内</nickname>
+		<ip6>240e:330:844:3b00:603:12ff:fed9:6d94</ip6>
 		<online>1</online>
 		<manufactures>HK</manufactures>
 	</camera>
 	<camera>
-		<nickname>客厅萤石云</nickname>
-		<ip6>::</ip6>
+		<nickname>厂房左中</nickname>
+		<ip6>240e:330:844:3b00:603:12ff:fed9:6cce</ip6>
+		<online>1</online>
+		<manufactures>HK</manufactures>
+	</camera>
+	<camera>
+		<nickname>厂房左外</nickname>
+		<ip6>240e:330:844:3b00:603:12ff:fed9:6cc9</ip6>
+		<online>1</online>
+		<manufactures>HK</manufactures>
+	</camera>
+	<camera>
+		<nickname>厂房右内</nickname>
+		<ip6>240e:330:844:3b00:603:12ff:fed9:6cd9</ip6>
+		<online>1</online>
+		<manufactures>HK</manufactures>
+	</camera>
+	<camera>
+		<nickname>厂房右中</nickname>
+		<ip6>240e:330:844:3b00:603:12ff:fed9:6cc5</ip6>
+		<online>1</online>
+		<manufactures>HK</manufactures>
+	</camera>
+	<camera>
+		<nickname>厂房右外</nickname>
+		<ip6>240e:330:844:3b00:603:12ff:fed9:6cde</ip6>
+		<online>1</online>
+		<manufactures>HK</manufactures>
+	</camera>
+	<camera>
+		<nickname>办公室</nickname>
+		<ip6>240e:330:844:3b00:603:12ff:feeb:e868</ip6>
 		<online>1</online>
 		<manufactures>HK</manufactures>
 	</camera>
