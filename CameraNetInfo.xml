@@ -5,17 +5,20 @@
 		<ip6></ip6>
 		<online>0</online>
 		<manufactures>TL</manufactures>
+		<streamurl>kt_pl</streamurl>
 	</camera>
 	<camera>
 		<nickname>客厅海康</nickname>
 		<ip6></ip6>
 		<online>0</online>
 		<manufactures>HK</manufactures>
+		<streamurl>kt_hk</streamurl>
 	</camera>
 	<camera>
 		<nickname>客厅萤石云</nickname>
 		<ip6></ip6>
 		<online>0</online>
 		<manufactures>HK</manufactures>
+		<streamurl>kt_ysy</streamurl>
 	</camera>
 </root>
