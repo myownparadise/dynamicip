@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<camera>
-		<nickname>客厅普联</nickname>
-		<ip6></ip6>
-		<online>0</online>
-		<manufactures>TL</manufactures>
-		<streamurl>kt_pl</streamurl>
-	</camera>
-	<camera>
-		<nickname>客厅海康</nickname>
+		<nickname>前门</nickname>
 		<ip6></ip6>
 		<online>0</online>
 		<manufactures>HK</manufactures>
-		<streamurl>kt_hk</streamurl>
+		<streamurl>yb_qm</streamurl>
 	</camera>
 	<camera>
-		<nickname>客厅萤石云</nickname>
+		<nickname>后门</nickname>
 		<ip6></ip6>
 		<online>0</online>
 		<manufactures>HK</manufactures>
-		<streamurl>kt_ysy</streamurl>
+		<streamurl>yb_hm</streamurl>
 	</camera>
 	<camera>
-		<nickname>客厅大华</nickname>
+		<nickname>鱼塘</nickname>
 		<ip6></ip6>
-		<online>1</online>
-		<manufactures>DH</manufactures>
-		<streamurl>kt_dh</streamurl>
+		<online>0</online>
+		<manufactures>HK</manufactures>
+		<streamurl>yb_yt</streamurl>
 	</camera>
 </root>
